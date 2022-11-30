@@ -1,4 +1,4 @@
-# Essentials
+# Essentias
 ![GitHub all releases](https://img.shields.io/github/downloads/kieaer/Essentials/total?style=for-the-badge) ![GitHub release (by tag)](https://img.shields.io/github/downloads/kieaer/Essentials/v13.2/total?style=for-the-badge)<br>
 Add more commands to the server.<br>
 **__Requires Java 16 or higher!__**
